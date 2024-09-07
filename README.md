@@ -4,9 +4,9 @@
 In a bustling city where every penny counted, a young software developer named waren found himself overwhelmed by his finances. With bills piling up and expenses spiraling out of control, he realized he needed a solution to manage his money better. Inspired by his own struggles, waren decided to create an app that would help not just him, but anyone looking to take control of their finances.
 
  ## screenshots
- <img src="Screenshot from 2024-09-07 10-17-58.png" alt="login">
- <img src="Screenshot from 2024-09-07 10-18-25.png" alt="first page" >
- <img src="Screenshot from 2024-09-07 10-19-20.png" alt="one expense" >
+ <img src="screen1.png" alt="login">
+ <img src="screen2.png" alt="first page" >
+ <img src="screen3.png" alt="one expense" >
 
 
 ## Thus, Billy Tracker & Expense was born.
