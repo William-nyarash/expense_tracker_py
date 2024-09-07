@@ -5,8 +5,8 @@ In a bustling city where every penny counted, a young software developer named w
 
  ## screenshots
  <img src="Screenshot from 2024-09-07 10-17-58.png" alt="login">
- <img src="Screenshot from 2024-09-07 10-18-25.png" alt="first page" width="240px">
- <img src="Screenshot from 2024-09-07 10-19-20.png" alt="one expense" width='240px'>
+ <img src="Screenshot from 2024-09-07 10-18-25.png" alt="first page" >
+ <img src="Screenshot from 2024-09-07 10-19-20.png" alt="one expense" >
 
 
 ## Thus, Billy Tracker & Expense was born.
