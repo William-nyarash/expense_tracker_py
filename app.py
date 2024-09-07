@@ -68,7 +68,7 @@ class ExpenseTrackerApp:
         self.expense_tree.heading('Amount', text='Amount')
         self.expense_tree.grid(row=0, column=0, sticky=(tk.W, tk.E, tk.N, tk.S))
 
-        scrollbar = ttk.Scrollbar(display_frame, orient=tk.HORIZONTAL, command=self.expense_tree.yview)
+        scrollbar = ttk.Scrollbar(display_frame, orient=tk.VERTICAL, command=self.expense_tree.yview)
         scrollbar.grid(row=0, column=1, sticky=(tk.N, tk.S))
         self.expense_tree.configure(yscrollcommand=scrollbar.set)
 
